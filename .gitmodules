@@ -1,0 +1,18 @@
+[submodule ".vim/bundle/ctrlp"]
+	path = .vim/bundle/ctrlp
+	url = git@github.com:ctrlpvim/ctrlp.vim.git
+[submodule ".vim/bundle/vimwiki"]
+	path = .vim/bundle/vimwiki
+	url = git@github.com:vimwiki/vimwiki.git
+[submodule ".vim/bundle/LustyExplorer"]
+	path = .vim/bundle/LustyExplorer
+	url = git@github.com:vim-scripts/LustyExplorer.git
+[submodule ".vim/bundle/airline"]
+	path = .vim/bundle/airline
+	url = git@github.com:bling/vim-airline.git
+[submodule ".vim/bundle/commentary"]
+	path = .vim/bundle/commentary
+	url = git@github.com:tpope/vim-commentary.git
+[submodule ".vim/bundle/fugitive"]
+	path = .vim/bundle/fugitive
+	url = git@github.com:tpope/vim-fugitive.git
