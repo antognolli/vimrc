@@ -19,3 +19,6 @@
 [submodule ".vim/bundle/localvimrc"]
 	path = .vim/bundle/localvimrc
 	url = git@github.com:embear/vim-localvimrc.git
+[submodule ".vim/pathogen"]
+	path = .vim/pathogen
+	url = git@github.com:tpope/vim-pathogen.git
