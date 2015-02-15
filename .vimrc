@@ -132,6 +132,7 @@ let g:ctrlp_by_filename = 1
 let g:ctrlp_lazy_update = 100
 let g:ctrlp_max_files = 0
 let g:ctrlp_cmd = 'CtrlPBuffer'
+let g:ctrlp_switch_buffer = 0
 
 " The following custom command for ctrlp is great, way faster than the builtin
 " one, but unfortunately its accuracy is not so great. Try to improve it some
